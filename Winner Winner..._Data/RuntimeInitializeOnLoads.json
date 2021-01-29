@@ -1,0 +1,1 @@
+{"root":[{"assemblyName":"TwitchLib.Unity","nameSpace":"TwitchLib.Unity","className":"CertificateValidationFix","methodName":"FixCertificateValidation","loadTypes":1,"isUnityClass":false},{"assemblyName":"TwitchLib.Unity","nameSpace":"TwitchLib.Unity","className":"UnityThread","methodName":"SetMainUnityThread","loadTypes":1,"isUnityClass":false}]}
